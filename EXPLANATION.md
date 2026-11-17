@@ -193,7 +193,7 @@ A $3 \times 3$ grid comparing true labels vs. predicted labels. Diagonal element
 
 ---
 
-## 9. Summary Cheat Sheet for DeepLense & GSoC
+## 9. Summary 
 
 ```text
 Problem: Classify dark matter substructure from strong lensing Einstein rings.
